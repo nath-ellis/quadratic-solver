@@ -1,0 +1,12 @@
+[project]
+name = "Quadratic Solver"
+version = "1.0"
+description = "A simple Tkinter program to solve quadratic equations using the quadratic formula."
+readme = "README.md"
+dependencies = [
+    "sv_ttk"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
